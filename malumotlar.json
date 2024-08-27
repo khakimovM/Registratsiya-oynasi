@@ -1,0 +1,20 @@
+[
+    {
+        "ism": "Muxammadaziz",
+        "familiya": "Xakimov",
+        "email": "khakimovmukhammadaziz@gmail.com",
+        "password": "12345"
+    },
+    {
+        "ism": "Aziz",
+        "familiya": "Xakimov",
+        "email": "xakimov@gmail.com",
+        "password": "55555"
+    },
+    {
+        "ism": "Boburjon",
+        "familiya": "Adxamov",
+        "email": "adxamov@gmail.com",
+        "password": "12345"
+    }
+]
